@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Teetrition
 - 🌱 I’m currently learning JavaScript.
-- 📫 Feel free to reach me via [email](mailto:pkj20000716@live.com)! You may use Chinese (Simplified/Traditional), English or Japanese.
+- 📫 Feel free to reach me via [email](mailto:pkj20000716@live.com)! You can use Chinese (Simplified/Traditional), English or Japanese.
